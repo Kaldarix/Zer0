@@ -33,7 +33,7 @@
 
 ### Legal Notice:
    This tool is intended for use in **controlled environments** only.
-   Unauthorized use against machines you do not own or have permission to test
+   Unauthorized use against machines you do not own or you do not have permission to test on
    is strictly prohibited and may violate laws.
 
 
