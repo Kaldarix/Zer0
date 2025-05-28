@@ -1,6 +1,4 @@
- ====================================================================================
-                             Zer0 :: Software Information
- ====================================================================================
+ ##                            Zer0 - Software Information
 
  Description:
    Zer0 is a Java-based payload control panel for remote command execution.
