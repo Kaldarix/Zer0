@@ -21,7 +21,9 @@
 
 ### Available Payloads:
    [1] RAM Flood     - Sends a memory overload command to the target.
+   
    [2] CPU Burn      - Triggers high CPU load of the target via infinite processing loop.
+   
    [3] Process Spam  - Spams dummy processes on the target system.
 
 ### Requirements:
