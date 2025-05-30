@@ -39,4 +39,3 @@
 
 ### Author:
   Kaldarix - Programming, Project creator
-  kingtom1 - Designing GUI, Programming
